@@ -25,7 +25,7 @@ javascript:(function(){var e,n,t,a,i=/(\r?\n|\r)/g,r=0===navigator.platform.inde
 6. An alert box now appears with the message size and other useful information
 
 ## Authors
-* **Sander Teirlynck** - Klasse
+* **Sander Teirlynck** - [Klasse](https://www.klasse.be/)
 
 ## Acknowledgements
 * Lea Verou's [ByteSizeMatters](http://bytesizematters.com/)
