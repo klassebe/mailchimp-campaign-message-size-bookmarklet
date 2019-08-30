@@ -1,5 +1,5 @@
 # Mailchimp Campaign Message Size Bookmarklet
-This bookmarklet calculates and shows the message size of a Mailchimp campaign while it's being built.
+This bookmarklet calculates and shows the message size of a Mailchimp campaign while it's still a draft.
 
 ## Background
 At Klasse, we noticed Gmail clipping most of our newsletters sent out using Mailchimp. Mailchimp's Guides and Tutorials taught us [Gmail clips emails with a message size larger than 102KB](https://mailchimp.com/help/gmail-is-clipping-my-email/), but does not mention or offer any way to know the message size of a campaign before it is sent out to subscribers.
